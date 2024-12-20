@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm an aspiring developer from India with a passio
 ---
 
 ## 📫 **Connect With Me** 
-[![Email](https://img.shields.io/badge/Email-kinjalmajumdar@example.com-red?style=flat-square&logo=gmail)](mailto:kinjalmajumdar@example.com) 
+[![Email](https://img.shields.io/badge/Email-kinjalmajumdar91@gmail.com-red?style=flat-square&logo=gmail)](mailto:kinjalmajumdar91@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-Kinjal--Majumdar-black?style=flat-square&logo=github)](https://github.com/Kinjal-Majumdar)
 
 ---
