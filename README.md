@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm an aspiring developer from India with a passio
 ## 📊 **GitHub Stats**
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/2fc89fab-91ac-424d-b1e4-d0f3e2bf94c1" alt="Image" width=300 align=right>
   <img src="https://github-readme-stats.vercel.app/api?username=Kinjal-Majumdar&show_icons=true&theme=radical" alt="Kinjal's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinjal-Majumdar&layout=compact&theme=radical" alt="Most Used Languages"/>
    <h2>🏆 GitHub Trophies</h2>
